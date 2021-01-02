@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with currrently __Nothing__
 - 💬 Ask me about __Python and Web Development__
-- 📫 How to reach me: [tanmaygautam146@gmail.com][tanmaygautam146@gmail.com]
-- 😄 Pronouns: __he, his__
+- 📫 How to reach me: [My email: tanmaygautam146@gmail.com]<tanmaygautam146@gmail.com>
+- 😄 Pronouns: __He, His__
 - ⚡ Fun fact: __You have got knowledge about me and You can also Contact me__
