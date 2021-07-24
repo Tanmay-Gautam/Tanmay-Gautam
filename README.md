@@ -1,4 +1,6 @@
 # Hi there 👋, I am [Tanmay Gautam](https://github.com/Tanmay-Gautam) <br> <sub><sup><small> **_App-Dev, Web-dev, Game_** </sub></sup></small>
+- 📫 How to reach me: <tanmaygautam146@gmail.com>
+- 😄 Pronouns: __He, His__
 
 # Skills/Learning
 
