@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/Tanmay"><img src="https://api.daily.dev/devcards/f5f25fc3372f439d90691f446c25bcda.png?r=l8m" width="400" alt="Tanmay Gautam's Dev Card"/></a>
 # 💫About Me :
 I'm a web dev and student
 I'm currently working on CityPortal App
