@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm a web dev and student
-I'm currently working on CityPortal App
-I'm learning React.js
+- I'm a web dev and student
+- I'm currently working on CityPortal App
+- I'm learning React.js
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_tanmaygautam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-gautam-421459206/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/_TanmayGautam) 
